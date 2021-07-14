@@ -44,10 +44,10 @@ a {
 
 
 /* --------------
-  HERO SECTION
+  SOCCER SECTION
 -------------- */
 
-.hero {
+.soccer {
   background-color: #2d25a0;
   display: flex;
   padding: 145px;
@@ -55,11 +55,11 @@ a {
   justify-content: space-between;
 }
 
-.hero-info {
+.soccer-info {
   padding-left: 50px;
 }
 
-.hero-title {
+.soccer-title {
   font-size: 64px;
   font-weight: 700;
   line-height: 80px;
@@ -262,21 +262,21 @@ footer img {
 @media only screen and (max-width: 688px) {
     
   /* --------------
-    HERO SECTION
+    SOCCER SECTION
   -------------- */
 
-  .hero {
+  .soccer {
     display: flex;
     flex-direction: column;
     padding: 50px 0 60px;
   }
 
-  .hero-title {
+  .soccer-title {
     font-size: 36px;
     line-height: 50px;
   }
 
-  .hero-info {
+  .soccer-info {
     padding: 0;
   }
 
@@ -401,21 +401,21 @@ footer img {
 
 @media only screen and (min-width: 689px) and (max-width: 992px) {
   /* --------------
-    HERO SECTION
+    SOCCER SECTION
   -------------- */
 
-  .hero {
+  .soccer {
     display: flex;
     flex-direction: column;
     padding: 50px 0 60px;
   }
 
-  .hero-title {
+  .soccer-title {
     font-size: 56px;
     line-height: 80px;
   }
 
-  .hero-info {
+  .soccer-info {
     padding: 0;
   }
 
