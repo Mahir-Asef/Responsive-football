@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
 
 /* ---------
-  UTILITES
+  styling part
 --------- */
 
 * {
@@ -39,12 +39,12 @@ a {
 }
 
 /* ---------------
-  HEADER SECTION
+  header part
 --------------- */
 
 
 /* --------------
-  SOCCER SECTION
+  soccer section
 -------------- */
 
 .soccer {
@@ -76,7 +76,7 @@ a {
 }
 
 /* ---------------
-  PLAYER SECTION
+  player section
 --------------- */
 
 .gallery {
@@ -114,7 +114,7 @@ a {
 }
 
 /* --------------------
-  HIGHLIGHTS SECTION
+highlights part
 -------------------- */
 
 .highlight {
@@ -149,7 +149,7 @@ a {
 }
 
 /* ---------------
-  NEWS SECTION
+  news section
 --------------- */
 
 .news-section {
@@ -177,7 +177,7 @@ article img {
 
 
 /* ----------------
-  SPONSOR SECTION
+  sponsor part
 ----------------- */
 
 .sponsor {
@@ -205,7 +205,7 @@ article img {
 
 
 /* --------
-  FOOTER
+ footer
 -------- */
 
 footer {
@@ -242,7 +242,7 @@ footer img {
   color: #969BAB;
 }
 
-/* COPYRIGHT */
+/* copyrights claims */
 
 .copyright {
   font-size: 18px;
@@ -254,15 +254,15 @@ footer img {
 }
 
   /* -------------
-    MEDIA QUERY
+    media queary
   ------------- */
 
-  /* MOBILE DEVICE */
+  /* for mobile devices */
 
 @media only screen and (max-width: 688px) {
     
   /* --------------
-    SOCCER SECTION
+    soccer section
   -------------- */
 
   .soccer {
@@ -288,7 +288,7 @@ footer img {
   }
 
   /* ---------------
-    PLAYER SECTION
+    player section
   --------------- */
 
   main {
@@ -313,7 +313,7 @@ footer img {
   }
   
   /* --------------------
-    HIGHLIGHTS SECTION
+    highlights section
   -------------------- */
   
   .highlight {
@@ -339,7 +339,7 @@ footer img {
   }
   
   /* ---------------
-    NEWS SECTION
+    nes section
   --------------- */
 
   .news-section {
@@ -357,7 +357,7 @@ footer img {
   }
 
   /* ----------------
-    SPONSOR SECTION
+  brand sponsor
   ----------------- */
 
   .companies {
@@ -379,7 +379,7 @@ footer img {
   }
 
   /* --------
-    FOOTER
+    footer part
   -------- */
 
   footer {
@@ -397,11 +397,11 @@ footer img {
   }
 }
 
-/* TAB DEVICE */
+/* tab part */
 
 @media only screen and (min-width: 689px) and (max-width: 992px) {
   /* --------------
-    SOCCER SECTION
+    soccer section
   -------------- */
 
   .soccer {
@@ -427,7 +427,7 @@ footer img {
   }
 
   /* ---------------
-    PLAYER SECTION
+   player details
   --------------- */
 
   main {
@@ -451,7 +451,7 @@ footer img {
   }
   
   /* --------------------
-    HIGHLIGHTS SECTION
+    highlights part
   -------------------- */
   
   .highlight {
@@ -477,7 +477,7 @@ footer img {
   }
 
   /* ---------------
-    NEWS SECTION
+    news part
   --------------- */
 
   .news-section {
@@ -496,7 +496,7 @@ footer img {
   }
 
   /* ----------------
-    SPONSOR SECTION
+   sponsor section
   ----------------- */
 
   .companies {
@@ -518,7 +518,7 @@ footer img {
   }
 
   /* --------
-    FOOTER
+    footer
   -------- */
 
   footer {
